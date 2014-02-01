@@ -1,3 +1,3 @@
 PicCompare
 ======
-It user Qt5.1
+It use Qt5.1
